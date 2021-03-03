@@ -1,1 +1,3 @@
-# swiftui-pie-chart-experiement
+# SwiftUI Pie Chart Experiment
+
+My first SwiftUI component.
